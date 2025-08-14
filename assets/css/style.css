@@ -39,7 +39,7 @@ header {
     box-shadow: 0 2px 2px #3a3a3a;
     display: flex;
     justify-content: space-between;
-    align-items: basline;
+    align-items: baseline;
 }
 
 header a {
@@ -247,6 +247,8 @@ main {
     font-size: 100%;
     background-color: #454b1b;
     color: #fafafa;
+}
+    
 
 /* Footer */    
 #social-networks {
@@ -314,7 +316,7 @@ main {
         right: 50px;
     }
 
-    /*Reasons section */
+    /* Reasons section */
     #benefits-physical,
     #benefits-mental {
         display: flex;
